@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus 👋
 
-Sou Desenvolvedor Web com enfâse em Front-end para criação de aplicações web responsívas e modernas.
+Sou Desenvolvedor Web Front-end dedicado a criação de aplicações web modernas e responsivas.
 Minha experiência inclui:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
